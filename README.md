@@ -104,7 +104,8 @@ py verify_codewords.py                              # 驗證
 90 年代台灣的 PC 遊戲中文化是**民間自組**到**正版代理**的過渡期。軟體世界（Soft World）是當時極少數有能力做整套 DOS RPG 中文化的廠商，作品線包括：
 
 - 魔法門 III 幻島歷險記 (1992)
-- 魔法門 IV 神秘島雲圖 (1993)
+- 魔法門外傳（魔法門 IV）星雲之謎 (1993)
+- 魔法門外傳（魔法門 V）黑暗魔軍大反撲 (1994)
 - 魔眼殺機 (Eye of the Beholder) 系列
 - 創世紀 VI 偽聖者 (Ultima VI) — 部分翻譯
 - 銀河飛將 (Wing Commander) 系列
@@ -130,9 +131,9 @@ Might and Magic 是 Jon Van Caneghem（JVC）於 1986 年創立的 RPG 系列。
 | --- | --- | --- |
 | MM I: Secret of the Inner Sanctum | 1986 | 文字介面，Apple II 起家 |
 | MM II: Gates to Another World | 1988 | EGA 16 色 |
-| **MM III: Isles of Terra** | **1991** | **VGA 256 色 + 滑鼠** ← 本作 |
-| MM IV: Clouds of Xeen | 1992 | 同 III 引擎進化 |
-| MM V: Darkside of Xeen | 1993 | 同 III/IV 引擎，可與 IV 合併成「World of Xeen」 |
+| **MM III: Isles of Terra**《魔法門 III 幻島歷險記》 | **1991** | **VGA 256 色 + 滑鼠** ← 本作 |
+| MM IV: Clouds of Xeen《魔法門外傳（IV）星雲之謎》 | 1992 | 同 III 引擎進化（軟體世界中文版 1993） |
+| MM V: Darkside of Xeen《魔法門外傳（V）黑暗魔軍大反撲》 | 1993 | 同 III/IV 引擎，可與 IV 合併成「World of Xeen」（軟體世界中文版 1994）|
 | MM VI: Mandate of Heaven | 1998 | 3D 引擎，3DO 接手後重啟 |
 
 **MM III 的承前啟後**：
