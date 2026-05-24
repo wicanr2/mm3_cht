@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+.vscode/
+.idea/
+
+# Game binaries / saves (copyrighted, do NOT commit)
+mm3b.exe
+mm3.cc
+mm3.cc.*
+mm3b.exe.*
+*.MM3
+SAVE*.MM3
+cfonts.grp*
+out_cc_dump/
+ABDB_zh.BIN
+
+# Generated patch products
+mm3.cc.injected*
+mm3b.exe.injected*
+
+# Local testing
+TEST_*
+test_*
+*.bak
