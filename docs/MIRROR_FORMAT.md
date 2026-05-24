@@ -1,6 +1,6 @@
 # MM3 (CHT) 傳送鏡 / 祕密區 修改筆記
 
-> 元碁科技 1992 繁體中文版《魔法門 III 幻島歷險記》 — 傳送鏡 (Mirror of
+> 軟體世界 1992 繁體中文版《魔法門 III 幻島歷險記》 — 傳送鏡 (Mirror of
 > Worlds) 代號表與「祕密區」(LOC 0x69) 完整 RE 紀錄。
 
 對應的 GitHub issue / 動機：見 `../mm3-secret.md`。原本只能用 GameMaster 改記

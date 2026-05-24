@@ -1,7 +1,7 @@
 # 魔法門 III 幻島歷險記 中文化擴充專案
 
 > *Might and Magic III: Isles of Terra*（1991 New World Computing）
-> — 元碁科技 1992 繁體中文版的後續 RE / patch 紀錄
+> — 軟體世界 1992 繁體中文版的後續 RE / patch 紀錄
 > 字型 8 → 15 row 修復 ✦ 傳送鏡新增「祕密區」代號 ✦ 開發者祕密區 18 段 credits 中文翻譯 ✦ 存檔位置編輯器
 
 ---
@@ -11,7 +11,7 @@
 1. [專案狀態](#status)
 2. [快速開始](#quick-start)
 3. [為何要做這個 patch？](#why)
-4. [1992 元碁科技中文版的時代](#elite-1992)
+4. [1992 軟體世界中文版的時代](#elite-1992)
 5. [魔法門 III 在系列中的位置](#mm-series)
 6. [傳送鏡（Mirror of Worlds）密碼系統](#mirror-codewords)
 7. [祕密區 — NWC 開發者的彩蛋與譯者的留白](#secret-area)
@@ -25,9 +25,9 @@
 <a name="status"></a>
 ## ✨ 專案狀態
 
-這是 *Might and Magic III: Isles of Terra*（1991 NWC）**繁體中文版**（元碁科技 1992）的擴充與 RE 紀錄。
+這是 *Might and Magic III: Isles of Terra*（1991 NWC）**繁體中文版**（軟體世界 1992）的擴充與 RE 紀錄。
 
-原版中文化由元碁科技在 1992 年完成，已是相當完整的翻譯。本專案專注於三件原版**未處理**或**故意未翻**的東西：
+原版中文化由軟體世界在 1992 年完成，已是相當完整的翻譯。本專案專注於三件原版**未處理**或**故意未翻**的東西：
 
 | 模組 | 狀態 | 說明 |
 | --- | --- | --- |
@@ -40,7 +40,7 @@
 | 項目 | 值 |
 | --- | --- |
 | 原作 | New World Computing, Inc. (1991) |
-| 中文化 | 元碁科技代理發行 (1992) |
+| 中文化 | 軟體世界代理發行 (1992) |
 | 平台 | MS-DOS（DOSBox 可玩） |
 | 字型 | 5813 glyph × 30 byte，BIG5 自訂 idx 排序 |
 | GitHub | [wicanr2/mm3_cht](https://github.com/wicanr2/mm3_cht) |
@@ -83,7 +83,7 @@ py verify_codewords.py                              # 驗證
 
 1991 年，**New World Computing**（後來被 3DO 收購）推出 *Might and Magic III: Isles of Terra*。這是 MM 系列第一款 256 色 VGA、第一款**有滑鼠介面**、第一款引入「按鍵 = 即時行動」的 MM 作品。在 1991 年的 RPG 標準下，它是**畫面、介面、戰鬥節奏**三方面都全面升級的工藝品。
 
-1992 年，**元碁科技**完成繁體中文化，把對話、選單、地名、技能、法術全部翻譯，並用自製 cfonts.grp 字模（5813 個 BIG5 glyph）支援滿屏中文。這個翻譯版本在 90 年代是台灣 RPG 玩家的入門經典之一。
+1992 年，**軟體世界**完成繁體中文化，把對話、選單、地名、技能、法術全部翻譯，並用自製 cfonts.grp 字模（5813 個 BIG5 glyph）支援滿屏中文。這個翻譯版本在 90 年代是台灣 RPG 玩家的入門經典之一。
 
 但有三個小遺憾：
 
@@ -99,9 +99,9 @@ py verify_codewords.py                              # 驗證
 ---
 
 <a name="elite-1992"></a>
-## 🏛 1992 元碁科技中文版的時代
+## 🏛 1992 軟體世界中文版的時代
 
-90 年代台灣的 PC 遊戲中文化是**民間自組**到**正版代理**的過渡期。元碁科技（Elite Software）是當時極少數有能力做整套 DOS RPG 中文化的廠商，作品線包括：
+90 年代台灣的 PC 遊戲中文化是**民間自組**到**正版代理**的過渡期。軟體世界（Soft World）是當時極少數有能力做整套 DOS RPG 中文化的廠商，作品線包括：
 
 - 魔法門 III 幻島歷險記 (1992)
 - 魔法門 IV 神秘島雲圖 (1993)
@@ -225,7 +225,7 @@ LOC 0x69 是 MM III 內藏最深的房間。畫面上是一片金色花紋地板
 
 ### 中文版譯者的留白
 
-元碁科技 1992 年的譯者，遇到這 18 段時做了一個有趣的決定 —— **他們不翻譯，但是在 mm3.cc 裡留下一段中文便條**（檔 `_UNKNOWN_FILE_FFB7.BIN` @ offset 0x29AF）：
+軟體世界 1992 年的譯者，遇到這 18 段時做了一個有趣的決定 —— **他們不翻譯，但是在 mm3.cc 裡留下一段中文便條**（檔 `_UNKNOWN_FILE_FFB7.BIN` @ offset 0x29AF）：
 
 > 「（中文版翻譯者註）**祕密區的許多寶座坐滿了魔法門 III 原作公司的職員，每個人都說了一些話。為了保留其原意，因此我們沒有翻譯**，請各位玩家自行品嚐個中趣味。」
 
@@ -445,14 +445,14 @@ copy /Y mm3.cc.bak mm3.cc
 
 **原作版權**：
 - *Might and Magic III: Isles of Terra* © 1991 New World Computing, Inc.
-- 繁體中文版 © 1992 元碁科技
+- 繁體中文版 © 1992 軟體世界
 
 本 repo **不**附原版遊戲檔（`mm3b.exe` / `mm3.cc` / SAVE.MM3 等）。請玩家自行取得合法 copy 後套用本 repo 提供的 patch。
 
 ### 技術致謝
 
 - **rewolf** ([@rwfpl](https://github.com/rwfpl)) — 2016 年 mm3.cc archive format RE + dumper + LZHUF reference implementation。本專案的 mm3.cc 壓縮 / 加密 / inject workflow 完全建立在他的研究上。([repo](https://github.com/rwfpl/rewolf-mm3-dumper) / [blog](https://blog.rewolf.pl/blog/?p=1202))
-- **元碁科技 1992 翻譯團隊** — 30 年前完成 MM III 主翻譯，並留下了那段「為什麼不翻譯祕密區 credits」的譯者註。本專案站在他們的肩膀上。
+- **軟體世界 1992 翻譯團隊** — 30 年前完成 MM III 主翻譯，並留下了那段「為什麼不翻譯祕密區 credits」的譯者註。本專案站在他們的肩膀上。
 - **New World Computing 1991 開發團隊** — 把整個團隊的 personality 放進祕密區寶座，造就了 RPG 史上最有溫度的開發者彩蛋之一。
 
 ### 關聯專案
